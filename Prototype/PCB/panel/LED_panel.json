@@ -1,0 +1,22 @@
+{
+    "layout": {
+        "hspace": "3mm",
+        "vspace": "3mm",
+        "rows": "6",
+        "cols": "4"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "5mm",
+        "hwidth": "4mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "spacing": "0.74mm",
+        "offset": "-0.25mm"
+    },
+    "framing": {
+        "type": "frame",
+        "fillet": "3mm"
+    }
+}
