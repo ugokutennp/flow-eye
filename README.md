@@ -1,2 +1,3 @@
 # flow-eye
-IR illuminator and camera mount for DIY eye tracker
+IR Illuminator and Camera Mount for Valve IndexDIY Eye Tracker
+![thumbnail](Prototype/Pic/Render.PNG)
