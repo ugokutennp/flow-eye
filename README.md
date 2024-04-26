@@ -7,6 +7,6 @@ IR Illuminator and Camera Mount for Valve Index DIY Eye Tracker
 ### Note
  - A rubber ring is used to mount the camera.
  - The part in front of the LED is a visible light filter (acrylic that passes only infrared light). It is attached for appearance.
-## V1
-![Render](Prototype/Pic/RenderV1.PNG)
+## Rev1.1
+![Render](Rev1.1/Pic/Render_Rev1.1.PNG)
 WIP
