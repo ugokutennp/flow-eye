@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4",1206,4,LED,
+J1,JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical,1,Conn_01x02,
+J2,TestPoint_Pad_D1.0mm,1,Pad1,
+J3,TestPoint_Pad_D1.0mm,1,Pad2,
+"J4, J5",TestPoint_Pad_D1.0mm,2,Pad3,
+"R1, R2",0603,2,680R,
