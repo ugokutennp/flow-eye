@@ -9,4 +9,6 @@ IR Illuminator and Camera Mount for Valve Index DIY Eye Tracker
  - The part in front of the LED is a visible light filter (acrylic that passes only infrared light). It is attached for appearance.
 ## Rev1.1
 ![Render](Rev1.1/Pic/Render_Rev1.1.PNG)
+![Electrical](Rev1.1/Pic/IMG_20240427_182008091.jpg)
+![Index](Rev1.1/Pic/IMG_20240427_184056875.jpg)
 WIP
